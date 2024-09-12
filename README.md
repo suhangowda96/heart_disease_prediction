@@ -74,4 +74,3 @@ The models are evaluated based on accuracy, precision, recall, and F1 score. You
 
 Contributing
 Feel free to submit issues or pull requests to improve the project. Please follow the contribution guidelines provided in CONTRIBUTING.md.
-
